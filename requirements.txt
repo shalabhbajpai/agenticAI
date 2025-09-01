@@ -1,0 +1,17 @@
+duckduckgo-search
+
+langchain-community
+
+ddgs
+
+langchain_ollama
+
+langchain_openai
+
+langgraph
+
+pydantic
+
+python-dotenv
+
+streamlit

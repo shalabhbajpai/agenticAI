@@ -1,0 +1,5 @@
+myenv
+.env
+
+crewai-rag-tool.lock
+db/
