@@ -1,0 +1,15 @@
+openai
+python-dotenv
+langchain_openai
+langchain_ollama
+langchain-ollama
+langchain-google-genai
+langchain_core
+langchain-aws
+huggingface_hub
+langchain-huggingface
+transformers
+gradio
+langchain-community
+pypdf
+bs4
